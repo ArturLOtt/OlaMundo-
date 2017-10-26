@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OlaMundo</string>
+    <string name="ol_nome">Nome</string>
+    <string name="ol_email">E-mail</string>
+    <string name="telefone">Telefone</string>
+    <string name="endere_o">Endereço</string>
+    <string name="bt_salvar">Salvar</string>
+    <string name="iol_codigo">Código</string>
+    <string name="iol_nome">Nome</string>
+    <string name="iol_tipo">Tipo</string>
+    <string name="iol_preco">Preço</string>
+    <string name="title_cadastro">Cadastro</string>
+</resources>
